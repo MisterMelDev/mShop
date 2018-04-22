@@ -1,0 +1,62 @@
+.product-title {
+  font-size: 30px;
+}
+
+.product-price {
+  font-size: 21px;
+}
+
+.product-stock {
+
+}
+
+.product-information {
+
+}
+
+.product-order-btn {
+  color: white;
+}
+
+.header {
+  background-color: rgb(66, 134, 244);
+}
+
+.name {
+  font-size: 23px;
+  padding: 7px;
+  margin: auto;
+}
+
+.no-style {
+  text-decoration: none;
+  color: white;
+}
+
+.no-style:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.page {
+  padding: 5px;
+  margin: 5px;
+}
+
+.shopping-cart {
+  float: right;
+  margin: auto;
+  padding: 5px;
+  font-size: 17px;
+  color: #eee;
+}
+
+.reviews-title {
+  font-size: 24px;
+}
+
+body {
+  font-family: 'Lato';
+  margin: 0px;
+  padding: 0px;
+}
