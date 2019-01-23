@@ -29,7 +29,7 @@ public class Webshop extends NanoHTTPD {
 		this.orders = new OrderManager();
 		this.products = new ProductManager(this);
 		this.users = new UserManager();
-		this.sql = new SQLManager("127.0.0.1", "root", "22102016SERVERMELLE", "shop", 3306);
+		this.sql = new SQLManager("127.0.0.1", "root", "root", "shop", 3306);
 		
 		this.router = new WebRouter(this);
 		
